@@ -1,5 +1,6 @@
+
 import React from 'react';
-import type { Testimonial } from '../types';
+import type { Testimonial } from '../types.ts';
 
 const testimonials: Testimonial[] = [
   {

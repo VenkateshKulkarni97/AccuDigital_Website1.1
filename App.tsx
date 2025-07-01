@@ -1,12 +1,12 @@
 
 import React from 'react';
-import Header from './components/Header';
-import Hero from './components/Hero';
-import Services from './components/Services';
-import About from './components/About';
-import Testimonials from './components/Testimonials';
-import ContactCTA from './components/ContactCTA';
-import Footer from './components/Footer';
+import Header from './components/Header.tsx';
+import Hero from './components/Hero.tsx';
+import Services from './components/Services.tsx';
+import About from './components/About.tsx';
+import Testimonials from './components/Testimonials.tsx';
+import ContactCTA from './components/ContactCTA.tsx';
+import Footer from './components/Footer.tsx';
 
 const App: React.FC = () => {
   return (

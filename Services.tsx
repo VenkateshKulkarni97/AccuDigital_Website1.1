@@ -1,6 +1,7 @@
+
 import React from 'react';
-import type { Service } from '../types';
-import { SEOMarketingIcon, PPCIcon, SocialMediaIcon, ContentCreationIcon, AnalyticsIcon, EmailMarketingIcon } from './icons';
+import type { Service } from '../types.ts';
+import { SEOMarketingIcon, PPCIcon, SocialMediaIcon, ContentCreationIcon, AnalyticsIcon, EmailMarketingIcon } from './icons.tsx';
 
 const services: Service[] = [
   {
